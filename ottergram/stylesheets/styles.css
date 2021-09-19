@@ -147,3 +147,15 @@ a {
 .hidden-detail .thumbnail-item {
     max-width: 80%;
 }
+
+.previous{
+  flex-direction: column;
+  padding: 0 30px;
+  text-align: center; 
+}
+
+.next{
+  flex-direction: column;
+  padding: 0 30px;
+  text-align: center; 
+}
